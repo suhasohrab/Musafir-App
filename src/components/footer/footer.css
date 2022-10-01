@@ -1,0 +1,13 @@
+.footer{
+    width: 100%;
+    color: white;
+    margin-bottom: 0px;
+    background-color: rgb(152, 233, 157);
+  }
+  .fText{
+    color:white;
+    margin-bottom: 0px;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bolder;
+  }
